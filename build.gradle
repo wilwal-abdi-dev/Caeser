@@ -1,6 +1,6 @@
 plugins {
     id 'java'
-}
+
 
 group 'Caeser2'
 version '1.0-SNAPSHOT'
