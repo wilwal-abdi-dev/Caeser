@@ -12,7 +12,7 @@ Languages used:
 2.Gradle
 3.Junit5
 
-license{ MIT License
+license{ MIT Licens
 
 Copyright (c) [2021] [Muhudin Abdi]
 
