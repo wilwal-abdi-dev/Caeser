@@ -4,7 +4,7 @@ Caeser
 
 Author : Muhudin Abdi
 
-Contributors: Muhudin Abdi
+Contributors: Muhudin Abd
 
 Languages used:
 
