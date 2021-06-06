@@ -2,7 +2,7 @@
 ## Java
 ##############################
 .mtj.tmp/
-*.class
+*.clas
 *.jar
 *.war
 *.ear
